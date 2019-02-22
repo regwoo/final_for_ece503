@@ -1,0 +1,21 @@
+﻿  Account_JIAYIYE.cpp
+  BankAccount_JIAYIYE.cpp
+c:\users\11038\documents\c++\finalproject_jiayiye\finalproject\bankaccount_jiayiye.cpp(19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\11038\documents\c++\finalproject_jiayiye\finalproject\bankaccount_jiayiye.cpp(32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  DoubleLinkedList_JIAYIYE.cpp
+  Main_JIAYIYE.cpp
+  Matlab_JIAYIYE.cpp
+  Node_JIAYIYE.cpp
+  SortMethod_JIAYIYE.cpp
+  StockAccount_JIAYIYE.cpp
+  StorageHelper_JIAYIYE.cpp
+  正在生成代码...
+Matlab_JIAYIYE.obj : error LNK2019: 无法解析的外部符号 mxGetPr，该符号在函数 "public: void __cdecl StockAccount::viewGraphPortfolioValue(void)" (?viewGraphPortfolioValue@StockAccount@@QEAAXXZ) 中被引用
+Matlab_JIAYIYE.obj : error LNK2019: 无法解析的外部符号 mxCreateDoubleMatrix_730，该符号在函数 "public: void __cdecl StockAccount::viewGraphPortfolioValue(void)" (?viewGraphPortfolioValue@StockAccount@@QEAAXXZ) 中被引用
+Matlab_JIAYIYE.obj : error LNK2019: 无法解析的外部符号 engEvalString，该符号在函数 "public: void __cdecl StockAccount::viewGraphPortfolioValue(void)" (?viewGraphPortfolioValue@StockAccount@@QEAAXXZ) 中被引用
+Matlab_JIAYIYE.obj : error LNK2019: 无法解析的外部符号 engOpen，该符号在函数 "public: void __cdecl StockAccount::viewGraphPortfolioValue(void)" (?viewGraphPortfolioValue@StockAccount@@QEAAXXZ) 中被引用
+Matlab_JIAYIYE.obj : error LNK2019: 无法解析的外部符号 engPutVariable，该符号在函数 "public: void __cdecl StockAccount::viewGraphPortfolioValue(void)" (?viewGraphPortfolioValue@StockAccount@@QEAAXXZ) 中被引用
+C:\Program Files (x86)\MATLAB\R2010a\extern\lib\win32\microsoft\libeng.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files (x86)\MATLAB\R2010a\extern\lib\win32\microsoft\libmx.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Program Files (x86)\MATLAB\R2010a\extern\lib\win32\microsoft\libmex.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\11038\Documents\C++\FinalProject_JIAYIYE\x64\Debug\FinalProject.exe : fatal error LNK1120: 5 个无法解析的外部命令
